@@ -1,4 +1,3 @@
-Aftab
 asgabrar
 asgdoger
 asgkingsley
@@ -353,7 +352,10 @@ qkwatif
 qkwawais
 qkwhassamshop
 qkwjaved
-rfbadeel
+rngabduallah
+rngzafar
+rngaliraza
+rngirfan
 sdgabdullah
 sdgahsan
 sdgali
@@ -384,6 +386,8 @@ sdgsadam
 sdgsadaqat
 sdgsaleem
 sdgshabir
+sdgsajjad
+sdg
 sdgtalha
 sdgtamoor
 sdgtanveer
