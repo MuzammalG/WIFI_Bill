@@ -1,7 +1,3 @@
-asgabrar
-asgdoger
-asgkingsley
-asgschool
 bolaamaad
 bolaasif
 bolahusnain
@@ -311,6 +307,7 @@ omgatif
 omgawais
 omgbakar
 omgbalal
+omgbasharat
 omgbilal
 omgbismanali
 omgGILL
@@ -349,9 +346,6 @@ pulsohail
 pultahir
 pulumair
 qkwatif
-qkwawais
-qkwhassamshop
-qkwjaved
 rngabduallah
 rngzafar
 rngaliraza
@@ -361,6 +355,7 @@ sdgahsan
 sdgali
 sdgaliraza
 sdgamaad
+sdgamir
 sdgansar
 sdgarslan
 sdgarslanbhalli
@@ -387,7 +382,6 @@ sdgsadaqat
 sdgsaleem
 sdgshabir
 sdgsajjad
-sdg
 sdgtalha
 sdgtamoor
 sdgtanveer
